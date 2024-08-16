@@ -1,0 +1,29 @@
+{
+    "ModId": "p3ppc.totalkotoneoverhaul",
+    "ModName": "Total Kotone Overhaul",
+    "ModAuthor": "Dexxtrip, teolicht",
+    "ModVersion": "1.0.0",
+    "ModDescription": "Overhauls all remaining blue assets during the FEMC route to be pink, matching her color scheme.",
+    "ModDll": "p3ppc.totalkotoneoverhaul.dll",
+    "ModIcon": "Preview.png",
+    "ModR2RManagedDll32": "x86/p3ppc.totalkotoneoverhaul.dll",
+    "ModR2RManagedDll64": "x64/p3ppc.totalkotoneoverhaul.dll",
+    "ModNativeDll32": "",
+    "ModNativeDll64": "",
+    "IsLibrary": false,
+    "ReleaseMetadataFileName": "p3ppc.totalkotoneoverhaul.ReleaseMetadata.json",
+    "PluginData": {},
+    "IsUniversalMod": false,
+    "ModDependencies": [
+        "p4gpc.inaba",
+        "p5rpc.modloader",
+        "Reloaded.Memory.SigScan.ReloadedII",
+        "reloaded.sharedlib.hooks",
+        "reloaded.universal.fileemulationframework.pak"
+    ],
+    "OptionalDependencies": [],
+    "SupportedAppId": [
+        "p3p.exe"
+    ],
+    "ProjectUrl": ""
+}
