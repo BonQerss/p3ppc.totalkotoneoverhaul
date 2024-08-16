@@ -90,7 +90,7 @@ namespace p3ppc.totalkotoneoverhaul
                     memory.SafeWrite((nuint)address, new byte[] { 0x90, 0x90 });
                 });
 
-                Utils.SigScan("0F BA F0 07 ?? ?? ?? ?? ?? ?? ??", "Pink Loading Card + Icon", 4,
+                Utils.SigScan("0F BA F0 07 ?? ?? ?? ?? ?? ?? ??", "Pink Loading Card + Title config", 4,
                 address =>
                 {
                     memory.SafeWrite((nuint)(address + 2), new byte[] { 0xE8 });
