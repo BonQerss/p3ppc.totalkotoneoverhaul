@@ -50,6 +50,11 @@ namespace p3ppc.totalkotoneoverhaul.Configuration
         [DefaultValue(true)]
         public bool Advantage { get; set; } = true;
 
+        [DisplayName("One More")]
+        [Description("Replaces the one more animation with a pink version.")]
+        [DefaultValue(true)]
+        public bool OneMore { get; set; } = true;
+
         [DisplayName("Fusion Spells")]
         [Description("Replaces fusion spell assets with red versions.")]
         [DefaultValue(true)]
@@ -64,6 +69,31 @@ namespace p3ppc.totalkotoneoverhaul.Configuration
         [Description("Replaces the blue All Out Attack backgrounds with pink ones.")]
         [DefaultValue(true)]
         public bool AOABackground { get; set; } = true;
+
+        [DisplayName("Map Screen")]
+        [Description("Replaces the blue Map Screen assets with pink ones.")]
+        [DefaultValue(true)]
+        public bool MapScreen { get; set; } = true;
+
+        [DisplayName("Shuffle Time")]
+        [Description("Replaces the blue Shuffle Time assets with pink ones.")]
+        [DefaultValue(true)]
+        public bool ShuffleTime { get; set; } = true;
+
+        [DisplayName("Tarot Cards")]
+        [Description("Replaces the blue Tarot Cards with pink ones.")]
+        [DefaultValue(true)]
+        public bool Tarot { get; set; } = true;
+
+        [DisplayName("Mini Map")]
+        [Description("Replaces the blue Mini Map assets inside of Tartarus with pink ones.")]
+        [DefaultValue(true)]
+        public bool MiniMap { get; set; } = true;
+
+        [DisplayName("Mini Map")]
+        [Description("Replaces the blue Mini Map assets inside of Tartarus with pink ones.")]
+        [DefaultValue(true)]
+        public bool AnalysisScreen { get; set; } = true;
     }
 
     /// <summary>

@@ -80,24 +80,29 @@ namespace p3ppc.totalkotoneoverhaul
 
             if (_configuration.FEMCTitleScreen)
             {
-                Utils.SigScan("C7 45 ?? 00 01 25 FF", "Femc Title Screen", address =>
+                var flag = _modLoader.GetActiveMods().Any(x => x.Generic.ModId == "p3ppc.kotonecutscenes");
+                if (!flag)
                 {
-                    memory.SafeWrite((nuint)(address + 3), new byte[] { 0xB2, 0x31, 0x46, 0xFF });
-                });
+                    SigScan("C7 45 ?? 00 01 25 FF", "Femc Title Screen", address =>
+                    {
+                        memory.SafeWrite((nuint)(address + 3), new byte[] { 0xB2, 0x31, 0x46, 0xFF });
+                    });
 
-               Utils.SigScan("75 ?? F6 83 ?? ?? ?? ?? 02 74 ?? E8 ?? ?? ?? ??", "Fixing my mistakes", address =>
-                {
-                    memory.SafeWrite((nuint)address, new byte[] { 0x90, 0x90 });
-                });
+                    SigScan("75 ?? F6 83 ?? ?? ?? ?? 02 74 ?? E8 ?? ?? ?? ??", "Fixing my mistakes", address =>
+                    {
+                        memory.SafeWrite((nuint)address, new byte[] { 0x90, 0x90 });
+                    });
 
-                Utils.SigScan("0F BA F0 07 ?? ?? ?? ?? ?? ?? ??", "Pink Loading Card + Title config", 4,
-                address =>
-                {
-                    memory.SafeWrite((nuint)(address + 2), new byte[] { 0xE8 });
-                });
+                    SigScan("0F BA F0 07 ?? ?? ?? ?? ?? ?? ??", "Pink Loading Card + Title config", 4, address =>
+                    {
+                        memory.SafeWrite((nuint)(address + 2), new byte[] { 0xE8 });
+                    });
 
-                criFsApi.AddProbingPath("Title Screen/P5REssentials/CPK");
+                    criFsApi.AddProbingPath("Title Screen/P5REssentials/CPK");
+                }
             }
+
+
 
             if (_configuration.AOA)
             {
@@ -129,6 +134,117 @@ namespace p3ppc.totalkotoneoverhaul
                 SigScan("C6 44 24 30 ED", "Timer B", address =>
                 {
                     memory.SafeWrite((nuint)(address + 4), new byte[] { 0x9A });
+                });
+            }
+
+            if (_configuration.AOA)
+            {
+                SigScan("C6 44 24 38 FF C6 44 24 30 CF 48 8B CF C6 44 24 28 9C", "AOA Prompt", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0xDB, 0xC6, 0x44, 0x24, 0x30, 0xBF, 0x48, 0x8B, 0xCF, 0xC6, 0x44, 0x24, 0x28, 0xFF });
+                });
+
+                SigScan("C6 44 24 38 FF C6 44 24 30 CF 44 8D 42 6F C6 44 24 28 9C", "AOA Prompt PT 2 BECAUSE OF THE STUPID FUCKING ROUNDED EDGE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0xDB, 0xC6, 0x44, 0x24, 0x30, 0xBF, 0x44, 0x8D, 0x42, 0x6F, 0xC6, 0x44, 0x24, 0x28, 0xFF });
+                });
+
+                criFsApi.AddProbingPath("AOA/P5REssentials/CPK");
+            }
+
+            if (_configuration.OneMore)
+            {
+                SigScan("41 BE 00 FF 82 66", "One More Diamond", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 3), new byte[] { 0xE1, 0x8C, 0xEE });
+                });
+
+                SigScan("41 0F 44 C0 41 B8 0C 02 00 00", "One More Lightning R", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0x41, 0x8B, 0xC0, 0x90 });
+                });
+
+                SigScan("80 E1 19", "One More Lightning G", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 2), new byte[] { 0x00 });
+                });
+
+                SigScan("41 B8 FF 00 00 00 66 F7 D8", "One More Lightning B", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0x41, 0xB0, 0xFF, 0x80, 0xE2, 0x79 });
+                });
+            }
+
+            if (_configuration.AnalysisScreen)
+            {
+                SigScanAll("C6 44 24 ?? 69", "Pink Everything Analysis PT 1", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 4), new byte[] { 0xFF });
+                });
+
+                SigScanAll("C6 44 24 ?? DF", "Pink Everything Analysis PT 2", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 4), new byte[] { 0x6B });
+                });
+
+                SigScan("C6 44 24 38 FF", "Pink Everything Analysis PT 3", new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 }, address =>
+                {
+                    memory.SafeWrite((nuint)(address + 4), new byte[] { 0x92 });
+                });
+
+                SigScanAll("41 B9 FF FF DF 69", "Pink Everything Analysis PT 4", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 2), new byte[] { 0xFF, 0x92, 0x6B, 0xFF });
+                });
+
+                SigScanAll("C7 45 ?? 69 DF FF FF", "Pink Everything Analysis PT 5", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 3), new byte[] { 0xFF, 0x6B, 0x92, 0xFF });
+                });
+
+                SigScan("40 88 6C 24 ?? 0F 28 DE", "Pink Everything Analysis PT 6", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0x44, 0x88, 0x7C, 0x24, 0x40 });
+                });
+
+                SigScan("44 88 7C 24 ?? F3 44 0F 11 44 24 ??", "Pink Everything Analysis PT R", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x28, 0xFF });
+                });
+
+                SigScan("44 88 74 24 ?? 48 8B CE 44 88 7C 24 ?? F3 44 0F 11 44 24 ??", "Pink Everything Analysis PT G", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x30, 0x6B });
+                });
+
+                SigScan("40 88 6C 24 ?? BA 0B 00 00 00", "Pink Everything Analysis PT B", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0x92 });
+                });
+
+                SigScan("40 88 6C 24 ?? 0F 28 DE", "Pink Everything Analysis PT A", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x40, 0xFF });
+                });
+
+                SigScan("C6 44 24 38 E5 0F 57 DB C6 44 24 30 FF 48 8B CB C6 44 24 28 9F", "Hovering Next", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0xD9, 0x0F, 0x57, 0xDB, 0xC6, 0x44, 0x24, 0x30, 0x9F, 0x48, 0x8B, 0xCB, 0xC6, 0x44, 0x24, 0x28, 0xFF });
+                });
+
+                SigScan("C6 44 24 ?? FF C6 44 24 ?? BD C6 44 24 28 00", "Normal Outer Selection", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0x92, 0xC6, 0x44, 0x24, 0x30, 0x3B, 0xC6, 0x44, 0x24, 0x28, 0xFF });
+                });
+
+                SigScan("41 81 C8 00 FF 75 00", "Inner rotating square", address =>
+                {
+                    memory.SafeWrite((nuint)(address + 4), new byte[] { 0x92, 0x3B, 0xFF });
+                });
+
+                SigScan("C6 44 24 ?? FF C6 44 24 ?? B5 C6 44 24 28 00", "Analysis Whole Selection", address =>
+                {
+                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0x92, 0xC6, 0x44, 0x24, 0x30, 0x3B, 0xC6, 0x44, 0x24, 0x28, 0xFF });
                 });
             }
 
@@ -168,6 +284,31 @@ namespace p3ppc.totalkotoneoverhaul
             if (_configuration.FSMOKE)
             {
                 _PakEmulator.AddDirectory(Path.Combine(modDir, "Smoke", "FEmulator", "PAK"));
+            }
+
+            if (_configuration.MapScreen)
+            {
+                _PakEmulator.AddDirectory(Path.Combine(modDir, "Map", "FEmulator", "PAK"));
+                SigScan("DC F3 FF FF 14 37 43 FF FB AE 64 FF 2B 4E 55 FF FF FF FF FF 12 39 42 FF", "Map Screen", address =>
+                {
+                    memory.SafeWrite((nuint)(address), new byte[] { 0xFF, 0xDC, 0xDC, 0xFF, 0x43, 0x14, 0x14, 0xFF, 0xF6, 0xB4, 0x64, 0xFF, 0x55, 0x2b, 0x2b, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0x42, 0x12, 0x12, 0xFF });
+                });
+            }
+
+            if (_configuration.MiniMap)
+            {
+                _PakEmulator.AddDirectory(Path.Combine(modDir, "Mini Map", "FEmulator", "PAK"));
+            }
+
+            if (_configuration.ShuffleTime)
+            {
+                criFsApi.AddProbingPath("ShuffleTime/P5REssentials/CPK");
+            }
+
+            if (_configuration.Tarot)
+            {
+                criFsApi.AddProbingPath("Tarot/P5REssentials/CPK");
+                _PakEmulator.AddDirectory(Path.Combine(modDir, "Tarot", "FEmulator", "PAK"));
             }
 
 
