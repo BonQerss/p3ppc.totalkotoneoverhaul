@@ -103,22 +103,6 @@ namespace p3ppc.totalkotoneoverhaul
             }
 
 
-
-            if (_configuration.AOA)
-            {
-                SigScan("C6 44 24 38 FF C6 44 24 30 CF 48 8B CF C6 44 24 28 9C", "AOA Prompt", address =>
-                {
-                    memory.SafeWrite((nuint)(address), new byte[] { 0xC6, 0x44, 0x24, 0x38, 0xDB, 0xC6, 0x44, 0x24, 0x30, 0xBF, 0x48, 0x8B, 0xCF, 0xC6, 0x44, 0x24, 0x28, 0xFF });
-                });
-
-                SigScan("C6 44 24 38 FF C6 44 24 30 CF 44 8D 42 6F C6 44 24 28 9C", "AOA Prompt PT 2 BECAUSE OF THE STUPID FUCKING ROUNDED EDGE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", address =>
-                {
-                    memory.SafeWrite((nuint)address, new byte[] { 0xC6, 0x44, 0x24, 0x38, 0xDB, 0xC6, 0x44, 0x24, 0x30, 0xBF, 0x44, 0x8D, 0x42, 0x6F, 0xC6, 0x44, 0x24, 0x28, 0xFF });
-                });
-
-                criFsApi.AddProbingPath("AOA/P5REssentials/CPK");
-            }
-
             if (_configuration.Timer)
             {
                 SigScan("C6 44 24 ?? 5B", "TImer R", address =>
