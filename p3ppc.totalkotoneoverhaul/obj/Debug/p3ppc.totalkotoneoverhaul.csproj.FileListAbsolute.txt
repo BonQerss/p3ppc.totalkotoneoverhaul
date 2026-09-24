@@ -1,16 +1,126 @@
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.csproj.AssemblyReference.cache
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.AssemblyInfoInputs.cache
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.AssemblyInfo.cs
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.csproj.CoreCompileInputs.cache
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.sourcelink.json
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.csproj.AssemblyReference.cache
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.AssemblyInfoInputs.cache
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.AssemblyInfo.cs
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.csproj.CoreCompileInputs.cache
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.sourcelink.json
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_2.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_3.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_4.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_5.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_7.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_8.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_9.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\AOA\P5REssentials\CPK\umd0.cpk\battle\cutin\syoudaku\BOKO_SD_A.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\FEmulator\PAK\battle\cutin\cutin2.bin\boko\koma2\2KOMA_A_99.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\FEmulator\PAK\battle\cutin\cutin3.bin\boko\koma3\3KOMA_A_99.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\FEmulator\PAK\battle\cutin\cutin4f.bin\boko\koma4\4KOMA_A_99.EPL
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_110\000.GMO
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_110\000.gms
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_11B\000.GMO
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_11B\000.gms
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\boko\koma2\2KOMA_A_1\001\boko_haigo_line.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\boko\koma2\2KOMA_A_1\001\boko_haigo_line.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\boko\koma2\2KOMA_A_1\001\boko_haigo_line.tm2
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\boko\koma3\3KOMA_A_1\001\boko_haigo_line.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Background\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\boko\koma4\4KOMA_A_1\001\boko_haigo_line.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_110\000.GMO
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\mdl2\battle\cutin\mixraid\MRF_11B\000.GMO
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\001\m_back.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\001\m_back.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_01.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_01.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_12.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_12.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_01.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_01.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_12.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_12.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\005\m_flash.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_111\002\m_per01_02.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_111\002\m_per02_02.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_112\002\m_per01_03.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_112\002\m_per02_03.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_113\002\m_per01_04.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_113\002\m_per02_04.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_114\002\m_per01_05.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_114\002\m_per02_05.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_115\002\m_per01_06.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_115\002\m_per02_06.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_116\002\m_per01_07.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_116\002\m_per02_07.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_117\002\m_per01_08_woman.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_117\002\m_per02_08.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_118\002\m_per01_09.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_118\002\m_per02_09.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_119\002\m_per01_10.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_119\002\m_per02_10.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11A\002\m_per01_11.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11A\002\m_per02_11.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\001\m_back.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\001\m_back.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\002\m_per01_12.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\002\m_per01_12.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\002\m_per02_12.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\002\m_per02_12.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11B\007\m_flash.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11C\002\m_per01_13.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11C\002\m_per02_13.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11D\002\m_per01_14.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11E\002\m_per01_15.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11E\002\m_per02_15.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11F\002\m_per01_16.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_11F\002\m_per02_16.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_120\002\m_per01_17.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_120\002\m_per02_17.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_121\002\m_per01_18.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_121\002\m_per02_18.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_121\002\m_per02_18.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_121\002\m_per02_182.dds
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_121\002\m_per02_182.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack.bin\btleff.bin\HATUDO_P.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack.bin\btleff.bin\HATUDO_S.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack.bin\btleff.bin\MIX_1.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack.bin\btleff.bin\SYUCYU.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack.bin\btleff.bin\TUKEKAE.bed
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack2.bin\btleff.bin\HATUDO_P.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack2.bin\btleff.bin\HATUDO_S.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack2.bin\btleff.bin\MIX_1.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack2.bin\btleff.bin\SYUCYU.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Smoke\FEmulator\PAK\battle\battle_pack2.bin\btleff.bin\TUKEKAE.BED
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Title Screen\P5REssentials\CPK\umd0.cpk\title\title.bin
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\Preview.png
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card00.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card01.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card02.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card03.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card04.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card05.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card06.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card07.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card08.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card09.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0a.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0b.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0c.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0d.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0e.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card0f.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card10.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card11.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card12.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card13.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card14.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card15.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card16.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card17.tmx
+C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\commu\card\c_card_ura.tmx
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\ModConfig.json
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul.deps.json
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul.dll
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul.pdb
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.to.74F3BF33.Up2Date
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.dll
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\refint\p3ppc.totalkotoneoverhaul.dll
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.pdb
-C:\Users\airin\OneDrive\Desktop\Mod Making\Temp 2\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\ref\p3ppc.totalkotoneoverhaul.dll
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.to.74F3BF33.Up2Date
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.dll
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\refint\p3ppc.totalkotoneoverhaul.dll
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\p3ppc.totalkotoneoverhaul.pdb
+C:\Github Repos\p3ppc.totalkotoneoverhaul\p3ppc.totalkotoneoverhaul\obj\Debug\ref\p3ppc.totalkotoneoverhaul.dll

@@ -120,8 +120,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CriFsV2Lib.Definitions": "1.1.0",
-          "Reloaded.Memory.Sigscan": "3.1.9"
+          "CriFsV2Lib.Definitions": "1.1.0"
         },
         "compile": {
           "bin/placeholder/CriFs.V2.Hook.Interfaces.dll": {}
@@ -133,9 +132,6 @@
       "PAK.Stream.Emulator.Interfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Reloaded.Memory.Sigscan": "3.1.9"
-        },
         "compile": {
           "bin/placeholder/PAK.Stream.Emulator.Interfaces.dll": {}
         },
@@ -293,8 +289,8 @@
     },
     "CriFs.V2.Hook.Interfaces/1.0.0": {
       "type": "project",
-      "path": "../../p4gpc.signatureskillsplus/extern/CriFs.V2.Hook/Interfaces/CriFs.V2.Hook.Interfaces/CriFs.V2.Hook.Interfaces.csproj",
-      "msbuildProject": "../../p4gpc.signatureskillsplus/extern/CriFs.V2.Hook/Interfaces/CriFs.V2.Hook.Interfaces/CriFs.V2.Hook.Interfaces.csproj"
+      "path": "../Interfaces/CriFs.V2.Hook.ReloadedII/Interfaces/CriFs.V2.Hook.Interfaces/CriFs.V2.Hook.Interfaces.csproj",
+      "msbuildProject": "../Interfaces/CriFs.V2.Hook.ReloadedII/Interfaces/CriFs.V2.Hook.Interfaces/CriFs.V2.Hook.Interfaces.csproj"
     },
     "PAK.Stream.Emulator.Interfaces/1.0.0": {
       "type": "project",
@@ -314,19 +310,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\airin\\.nuget\\packages\\": {}
+    "C:\\Users\\airin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+      "projectUniqueName": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
       "projectName": "p3ppc.totalkotoneoverhaul",
-      "projectPath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+      "projectPath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
       "packagesPath": "C:\\Users\\airin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\obj\\",
+      "outputPath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\airin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -340,11 +341,11 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\Interfaces\\FileEmulationFramework\\Emulator\\Interfaces\\PAK.Stream.Emulator.Interfaces\\PAK.Stream.Emulator.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\Interfaces\\FileEmulationFramework\\Emulator\\Interfaces\\PAK.Stream.Emulator.Interfaces\\PAK.Stream.Emulator.Interfaces.csproj"
+            "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\Interfaces\\CriFs.V2.Hook.ReloadedII\\Interfaces\\CriFs.V2.Hook.Interfaces\\CriFs.V2.Hook.Interfaces.csproj": {
+              "projectPath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\Interfaces\\CriFs.V2.Hook.ReloadedII\\Interfaces\\CriFs.V2.Hook.Interfaces\\CriFs.V2.Hook.Interfaces.csproj"
             },
-            "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\extern\\CriFs.V2.Hook\\Interfaces\\CriFs.V2.Hook.Interfaces\\CriFs.V2.Hook.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\extern\\CriFs.V2.Hook\\Interfaces\\CriFs.V2.Hook.Interfaces\\CriFs.V2.Hook.Interfaces.csproj"
+            "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\Interfaces\\FileEmulationFramework\\Emulator\\Interfaces\\PAK.Stream.Emulator.Interfaces\\PAK.Stream.Emulator.Interfaces.csproj": {
+              "projectPath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\Interfaces\\FileEmulationFramework\\Emulator\\Interfaces\\PAK.Stream.Emulator.Interfaces\\PAK.Stream.Emulator.Interfaces.csproj"
             }
           }
         }
@@ -358,7 +359,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0-windows7.0": {
@@ -416,7 +418,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318\\RuntimeIdentifierGraph.json"
       }
     }
   }

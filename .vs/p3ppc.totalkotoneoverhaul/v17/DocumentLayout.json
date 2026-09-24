@@ -1,31 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\",
+  "WorkspaceRootPath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\users\\airin\\onedrive\\desktop\\mod making\\temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\airin\\Downloads\\Release\\User\\Mods\\p3ppc.totalkotoneoverhaul\\Config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\users\\airin\\onedrive\\desktop\\mod making\\temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\users\\airin\\onedrive\\desktop\\mod making\\temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\users\\airin\\onedrive\\desktop\\mod making\\temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\users\\airin\\onedrive\\desktop\\mod making\\temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\modconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\preview.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\preview.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|c:\\github repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\modconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8CD222B-C77E-4561-9D2F-7805BE9D6165}|p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj|solutionrelative:p3ppc.totalkotoneoverhaul\\modconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -42,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,84 +57,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Mod.cs",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
-              "RelativeDocumentMoniker": "..\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
-              "RelativeToolTip": "..\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAIBJwAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:39:31.578Z"
+              "DocumentIndex": 0,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\airin\\Downloads\\Release\\User\\Mods\\p3ppc.totalkotoneoverhaul\\Config.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\airin\\Downloads\\Release\\User\\Mods\\p3ppc.totalkotoneoverhaul\\Config.json",
+              "ToolTip": "C:\\Users\\airin\\Downloads\\Release\\User\\Mods\\p3ppc.totalkotoneoverhaul\\Config.json",
+              "RelativeToolTip": "..\\..\\Users\\airin\\Downloads\\Release\\User\\Mods\\p3ppc.totalkotoneoverhaul\\Config.json",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T10:46:28.728Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "p3ppc.totalkotoneoverhaul.csproj",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
-              "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
-              "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-13T20:33:58.473Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Mod.cs",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Mod.cs",
+              "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\Mod.cs",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Mod.cs",
+              "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\Mod.cs",
+              "ViewState": "AgIAAJcEAAAAAAAAAAAAALUEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:43:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Preview.png - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Preview.png",
+              "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\Preview.png",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Preview.png - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\Preview.png - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-13T07:23:37.611Z",
+              "EditorCaption": " - PNG [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mod.cs",
+              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
+              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
+              "RelativeToolTip": "..\\..\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.expandedsubmenu\\p3ppc.expandedsubmenu\\Mod.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:39:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "p3ppc.totalkotoneoverhaul.csproj",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+              "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+              "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T20:33:58.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mod.cs",
               "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
-              "RelativeDocumentMoniker": "..\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
               "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
-              "RelativeToolTip": "..\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAABkAAAA",
+              "RelativeToolTip": "..\\..\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p4gpc.signatureskillsplus\\p4gpc.signatureskillsplus\\Mod.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T20:31:28.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ModConfig.json",
               "DocumentMoniker": "C:\\Users\\airin\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\airin\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
               "ToolTip": "C:\\Users\\airin\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
+              "RelativeToolTip": "..\\..\\Users\\airin\\Downloads\\Release\\Mods\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-13T20:14:59.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ModConfig.json",
               "DocumentMoniker": "C:\\Users\\airin\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\airin\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
               "ToolTip": "C:\\Users\\airin\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
+              "RelativeToolTip": "..\\..\\Users\\airin\\Downloads\\Release\\Mods\\Red\\ModConfig.json",
               "ViewState": "AQIAAGkAAAAAAAAAAIBJwH4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-13T20:07:25.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Config.cs",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Config.cs",
               "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\Config.cs",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Config.cs",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Config.cs",
               "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\Config.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAABQwD8AAABRAAAA",
+              "ViewState": "AgIAAKMFAAAAAAAAAAAAALUFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T19:47:47.848Z"
+              "WhenOpened": "2024-08-13T19:47:47.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ModConfig.json",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
               "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\ModConfig.json",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\ModConfig.json",
               "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\ModConfig.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -135,33 +182,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Utils.cs",
+              "DocumentMoniker": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Utils.cs",
               "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\Utils.cs",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Utils.cs",
+              "ToolTip": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Utils.cs",
               "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\Utils.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwvy4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:59:00.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mod.cs",
-              "DocumentMoniker": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Mod.cs",
-              "RelativeDocumentMoniker": "p3ppc.totalkotoneoverhaul\\Mod.cs",
-              "ToolTip": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\Mod.cs",
-              "RelativeToolTip": "p3ppc.totalkotoneoverhaul\\Mod.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAQwDcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:03:08.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-08-13T18:59:00.497Z"
             }
           ]
         }

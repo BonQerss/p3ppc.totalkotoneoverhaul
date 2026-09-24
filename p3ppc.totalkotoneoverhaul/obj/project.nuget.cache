@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGGbZpdfIBA=",
+  "dgSpecHash": "+r74IfbUrqE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\airin\\OneDrive\\Desktop\\Mod Making\\Temp 2\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
+  "projectFilePath": "C:\\Github Repos\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul\\p3ppc.totalkotoneoverhaul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\airin\\.nuget\\packages\\crifsv2lib.definitions\\1.1.0\\crifsv2lib.definitions.1.1.0.nupkg.sha512",
     "C:\\Users\\airin\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
@@ -12,8 +12,8 @@
     "C:\\Users\\airin\\.nuget\\packages\\reloaded.memory.sigscan.reloadedii.interfaces\\1.2.0\\reloaded.memory.sigscan.reloadedii.interfaces.1.2.0.nupkg.sha512",
     "C:\\Users\\airin\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
     "C:\\Users\\airin\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512",
-    "C:\\Users\\airin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\airin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\airin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\airin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": []
