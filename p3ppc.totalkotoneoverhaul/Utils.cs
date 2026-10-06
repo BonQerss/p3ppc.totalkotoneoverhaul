@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.Text;
 using p3ppc.totalkotoneoverhaul.Configuration;
 using Reloaded.Memory.Sigscan;
@@ -9,25 +9,26 @@ namespace p3ppc.totalkotoneoverhaul;
 
 public class Utils
 {
-    private static ILogger _logger;
-    private static Config _config;
-    private static IStartupScanner _startupScanner;
+    private static ILogger _logger = null!;
+    private static IStartupScanner _startupScanner = null!;
     internal static nint BaseAddress { get; private set; }
 
     internal static bool Initialise(ILogger logger, Config config, IModLoader modLoader)
     {
         _logger = logger;
-        _config = config;
         using var thisProcess = Process.GetCurrentProcess();
         BaseAddress = thisProcess.MainModule!.BaseAddress;
 
         var startupScannerController = modLoader.GetController<IStartupScanner>();
-        if (startupScannerController == null || !startupScannerController.TryGetTarget(out _startupScanner))
+        if (startupScannerController == null ||
+            !startupScannerController.TryGetTarget(out var startupScanner) ||
+            startupScanner == null)
         {
             LogError($"Unable to get controller for Reloaded SigScan Library, stuff won't work :(");
             return false;
         }
 
+        _startupScanner = startupScanner;
         return true;
 
     }

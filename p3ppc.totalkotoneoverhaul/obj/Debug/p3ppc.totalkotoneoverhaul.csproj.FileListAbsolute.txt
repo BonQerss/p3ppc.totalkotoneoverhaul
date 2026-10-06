@@ -29,13 +29,9 @@ C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5R
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\001\m_back.dds
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\001\m_back.png
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_01.dds
-C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_01.png
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_12.dds
-C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per01_12.png
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_01.dds
-C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_01.png
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_12.dds
-C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\002\m_per02_12.png
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_110\005\m_flash.dds
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_111\002\m_per01_02.dds
 C:\Users\airin\Downloads\Release\Mods\p3ppc.totalkotoneoverhaul\FusionSpells\P5REssentials\CPK\umd0.cpk\tex2\battle\cutin\mixraid\MRF_111\002\m_per02_02.dds
