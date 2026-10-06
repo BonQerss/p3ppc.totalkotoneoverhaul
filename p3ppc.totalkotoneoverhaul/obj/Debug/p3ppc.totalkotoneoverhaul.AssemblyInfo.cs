@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p3ppc.totalkotoneoverhaul")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d7297b6942c6eab388105b499af74d2b890210")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea4a3088c72988dea95a754b3d772a82ade39ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("p3ppc.totalkotoneoverhaul")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p3ppc.totalkotoneoverhaul")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
